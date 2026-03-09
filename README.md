@@ -6,7 +6,6 @@
 ## 실행화면
 
 ![MyBusinessCardVideo](https://github.com/user-attachments/assets/a5a780e0-ffbc-45bd-badb-850bcd8a88c6)
-![MyBusinessCardVideo](https://github.com/user-attachments/assets/a5a780e0-ffbc-45bd-badb-850bcd8a88c6)
 
 ## 구현시어려웠던점
 -버튼 클릭 시 랜덤 색상을 만드는 코드와 깃 허브 연결 코드를 이해하는 것이 조금 어려웠지만,
